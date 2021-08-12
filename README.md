@@ -10,7 +10,7 @@
 
 # Olá, sou a Isabel 👋
 Sou Graduanda de Ciência da Computação - UFC.
-Sou Desenvolvedora Front-End e futura Full-Stack.
+<br/>Sou Desenvolvedora Front-End e futura Full-Stack.
   
  :rocket:  &nbsp; Trabalho no [Insight Lab](https://insightlab.ufc.br/) como bolsista e lá desenvolvo projetos de Transformação digital. <br/>
  <br/> :purple_heart: &nbsp; Busco conhecimento e espero ajudar as pessoas com minhas habilidades.
