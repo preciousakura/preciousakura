@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://i.pinimg.com/originals/ff/aa/35/ffaa3505ac126d6e8b54e400cccfc130.gif">
+  <img align="right" alt="Rafa-yoda" height="100" src="https://64.media.tumblr.com/4a8bba29fe9fc5648a4209fca9e236bb/8b37e15fc58d825b-b4/s540x810/d564ddc48dd336f7dfa0f525fa271915c7877e37.gifv">
 </div>
   
   ##
