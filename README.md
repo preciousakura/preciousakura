@@ -12,7 +12,7 @@
 Sou Graduanda de Ciência da Computação - UFC.
 <br/>Sou Desenvolvedora Front-End.
   
- # Trabalho no &nbsp; [Insight Lab](https://insightlab.ufc.br/) como bolsista e lá desenvolvo projetos de Transformação digital.
+ # Trabalho no [Insight Lab](https://insightlab.ufc.br/) como bolsista e lá desenvolvo projetos de Transformação digital.
  <br/> # Busco conhecimento e espero ajudar as pessoas com minhas habilidades.
  <br/> # Minha stack: JavaScript, HTML, ReactJS, TypeScript, CSS, Less & Scss/Sass.
  <br/> # Interesses: Linguagens de Programação, Jogos e Gatos. 
