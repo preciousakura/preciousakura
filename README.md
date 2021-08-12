@@ -1,9 +1,5 @@
 ## Oiii! Eu sou a Isabel
 
-<div>
-  <img align="right" alt="egg" src="https://64.media.tumblr.com/4a8bba29fe9fc5648a4209fca9e236bb/8b37e15fc58d825b-b4/s540x810/d564ddc48dd336f7dfa0f525fa271915c7877e37.gif">
- </div>
-
  <div>
   <a href="https://github.com/preciousakura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=preciousakura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,4 +21,6 @@
  
 </div>
 
-
+<div>
+  <img alt="egg" src="https://64.media.tumblr.com/4a8bba29fe9fc5648a4209fca9e236bb/8b37e15fc58d825b-b4/s540x810/d564ddc48dd336f7dfa0f525fa271915c7877e37.gif">
+ </div>
