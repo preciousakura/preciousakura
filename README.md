@@ -1,26 +1,26 @@
-
-# Isabel Cristina
-
+## Oiii! Eu sou a Isabel
 
  <div>
   <a href="https://github.com/preciousakura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=preciousakura&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preciousakura&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=preciousakura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preciousakura&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-# Olá, sou a Isabel 👋
-Sou Graduanda de Ciência da Computação - UFC.
-<br/>Sou Desenvolvedora Front-End.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Rafa-yoda" src="https://i.pinimg.com/originals/ff/aa/35/ffaa3505ac126d6e8b54e400cccfc130.gif">
+</div>
   
- <br/> # Trabalho no [Insight Lab](https://insightlab.ufc.br/) como bolsista e lá desenvolvo projetos de Transformação digital.
- <br/> # Busco conhecimento e espero ajudar as pessoas com minhas habilidades.
- <br/> # Minha stack: JavaScript, HTML, ReactJS, TypeScript, CSS, Less & Scss/Sass.
- <br/> # Interesses: Linguagens de Programação, Jogos e Gatos. 
- <br/> # Entre em contato comigo: [![GMAIL]](mailto:isawithans@gmail.com)
-| 
-
-
-<div style="display: flex"><br>
-
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TYPESCRIPT](https://img.shields.io/badge/typescript-%23777BB4.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SASS](https://img.shields.io/badge/sass-ff9ce8.svg?style=for-the-badge&logo=sass&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+  ##
+ 
+<div> 
+ <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/preciousakura/preciousakura/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
