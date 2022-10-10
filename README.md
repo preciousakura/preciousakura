@@ -1,12 +1,12 @@
-## Oi! Eu sou a Isabel
-<p>Sou estudante de Ciência da Computação (UFC, Brasil) e trabalho como desenvolvedora front-end na Insight.</p>
-
  <div>
   <a href="https://github.com/preciousakura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=preciousakura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preciousakura&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
+
+ ## Oi! Eu sou a Isabel
+<p>Estudante de Ciência da Computação (UFC, Brasil) e desenvolvedora front-end no [Insight Lab](https://insightlab.ufc.br/). Sou muito curiosa e adoro programação. Atualmente, estou aprendendo linguagens frequentemente usadas no back-end, como Java e Python. </p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
