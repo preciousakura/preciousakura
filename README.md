@@ -1,4 +1,5 @@
-## Oiii! Eu sou a Isabel
+## Oi! Eu sou a Isabel
+<p>Sou estudante de Ciência da Computação (UFC, Brasil) e trabalho como desenvolvedora front-end na Insight.</p>
 
  <div>
   <a href="https://github.com/preciousakura">
