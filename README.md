@@ -5,7 +5,7 @@
 </div>
 
  ## Oi! Eu sou a Isabel
-<p>Estudante de Ciência da Computação (UFC, Brasil) e desenvolvedora front-end no [Insight Lab](https://insightlab.ufc.br/). Sou muito curiosa e adoro programação. Atualmente, estou aprendendo linguagens frequentemente usadas no back-end, como Java e Python. </p>
+<p>Estudante de Ciência da Computação (UFC, Brasil) e desenvolvedora front-end no <a href="https://insightlab.ufc.br/">Insight Lab]</a>. Sou muito curiosa e apaixonada por tecnologia, em especial programação. Atualmente, estou aprendendo linguagens frequentemente usadas no back-end, como Java e Python.</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
